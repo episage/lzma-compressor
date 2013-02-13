@@ -37,3 +37,5 @@ Example usage
 WARNING
 -------
 Remember to uncheck for arithmetic overflow/underflow under compilation settings.
+
+![7-zip logo](http://bit.ly/YWOR13)
