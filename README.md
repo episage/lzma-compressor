@@ -20,7 +20,7 @@
 	
 # Usage
 
-Option1: Copy & paste `SevenZipHelper.cs` with `7zip` folder to your solution.
+Option1: Copy & paste `SevenZipHelper.cs` with `7zip` folder to your solution. Remember to deselect `Check for arithmetic overflow/underflow` in Build -> Advanced. 
 
 Option2: Compile & reference this project.
 
