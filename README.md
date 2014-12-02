@@ -1,4 +1,4 @@
-# Easy compression
+# Compression
 
 	using(Stream inStream = new MemoryStream(arrayToCompress))
 	using(Stream outStream = new FileStream(@"compressed.lzma", FileMode.Create))
@@ -6,7 +6,7 @@
 		SevenZip.Helper.Compress(inStream, outStream);
 	}
 
-# Easy decompression
+# Decompression
 
 	using(Stream inStream = new FileStream(@"compressed.lzma", FileMode.Open))
 	using(Stream outStream = new MemoryStream())
@@ -26,7 +26,7 @@ Option2: Compile & reference this project.
 
 Use `SevenZip.Helper` namespace.
 	
-# Demo code
+# Demo
 
 	using System;
 	using System.IO;
