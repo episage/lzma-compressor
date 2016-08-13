@@ -20,8 +20,7 @@
 	
 # Usage
 
-You can compile & reference this project.
-Then use `SevenZip.Helper` namespace.
+You can add this project to your Visual Studio solution. Then use `SevenZip.Helper` namespace.
 
 OR
 
