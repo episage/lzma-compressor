@@ -20,12 +20,8 @@
 	
 # Usage
 
-You can add this project to your Visual Studio solution. Then use `SevenZip.Helper` namespace.
-
-OR
-
-You can copy & paste `SevenZipHelper.cs` with `7zip` folder to your solution. Remember to deselect `Check for arithmetic overflow/underflow` in Build -> Advanced. 
-Then use `SevenZip.Helper` namespace.
+Add this project to your Visual Studio solution. 
+Reference it from your Visual Studio project and use `SevenZip.Helper` namespace.
 
 # Demo
 
