@@ -20,12 +20,14 @@
 	
 # Usage
 
-Option1: Copy & paste `SevenZipHelper.cs` with `7zip` folder to your solution. Remember to deselect `Check for arithmetic overflow/underflow` in Build -> Advanced. 
+You can compile & reference this project.
+Then use `SevenZip.Helper` namespace.
 
-Option2: Compile & reference this project.
+OR
 
-Use `SevenZip.Helper` namespace.
-	
+You can copy & paste `SevenZipHelper.cs` with `7zip` folder to your solution. Remember to deselect `Check for arithmetic overflow/underflow` in Build -> Advanced. 
+Then use `SevenZip.Helper` namespace.
+
 # Demo
 
 	using System;
