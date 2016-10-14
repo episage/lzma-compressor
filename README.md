@@ -102,4 +102,8 @@ LZMA helper class written in C# for compression of arbitrary Streams. Based on L
 
 You can either add the project to your solution or download the latest LZMA SDK version from http://www.7-zip.org/sdk.html and put it together with SevenZipHelper.cs file.
 
+# License
+
+GNU LGPL
+
 ![7-zip logo](http://bit.ly/YWOR13)
